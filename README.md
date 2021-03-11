@@ -1,0 +1,7 @@
+# BudgetBoi
+
+Colour palettes potential
+
+ECE4B7  D9DD92  EABE7C  DD6031  311E10
+
+12130F  5B9279  8FCB9B  EAE6E5  8F8073
